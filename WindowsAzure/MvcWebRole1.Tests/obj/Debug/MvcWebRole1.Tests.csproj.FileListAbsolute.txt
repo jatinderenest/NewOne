@@ -1,0 +1,8 @@
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.Tests.dll.config
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.Tests.dll
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.Tests.pdb
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.dll
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.pdb
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1.Tests\obj\Debug\MvcWebRole1.Tests.dll
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1.Tests\obj\Debug\MvcWebRole1.Tests.pdb

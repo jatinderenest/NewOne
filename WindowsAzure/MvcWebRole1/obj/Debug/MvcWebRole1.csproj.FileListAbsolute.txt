@@ -1,0 +1,11 @@
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\bin\MvcWebRole1.dll
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\bin\MvcWebRole1.pdb
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\bin\System.Web.Mvc.dll
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\bin\System.Web.Mvc.xml
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\obj\Debug\ResolveAssemblyReference.cache
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\obj\Debug\MvcWebRole1.dll
+D:\Official\Hudson\GitHubRepository\WindowsAzure\MvcWebRole1\obj\Debug\MvcWebRole1.pdb
